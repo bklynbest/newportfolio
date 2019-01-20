@@ -8,7 +8,7 @@ $(document).ready(function(){
       detail: 'E-commerce application built with Ruby on Rails',
       link: 'https://bikesberlinworldwide.herokuapp.com'
     },
-    powur: {
+    never: {
       title: 'Recipe box',
       tag: 'Recipe Sharing.',
       detail: 'Recipe sharing application built with ruby on rails.',
@@ -20,13 +20,13 @@ $(document).ready(function(){
       detail: 'Job-board application built with Ruby on Rails',
       link: 'https://jobs495.herokuapp.com'
     },
-    never: {
+    walker: {
       title: 'Zelda Planner',
       tag: 'DAILY PLANNER',
       detail: 'Daily planner with asynchronous notifications. Built with react, redux and firebase.',
       link: 'https://britannia-planner.firebaseapp.com/'
     },
-    themall: {
+    powur: {
       title: 'Britannia Form',
       tag: 'Javascript Form',
       detail: 'Form made with pure javascript',
